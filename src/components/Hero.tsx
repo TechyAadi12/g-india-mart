@@ -1,4 +1,4 @@
-import { Phone, ArrowRight, Truck, Shield, Clock, MapPin, Sparkles } from "lucide-react";
+import { Phone, Truck, Shield, Clock, MapPin, Sparkles } from "lucide-react";
 import Button from "./Button";
 import { business, telLink } from "../data/business";
 
