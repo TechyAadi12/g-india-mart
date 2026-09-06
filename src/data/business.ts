@@ -5,7 +5,8 @@
 
 export const WHATSAPP_NUMBER = "919621082164"; // country code + number, digits only
 export const PHONE_NUMBER = "9621082164";
-export const GOOGLE_MAPS_URL = "GOOGLE_MAPS_URL_HERE"; // TODO: owner to add exact map link
+export const GOOGLE_MAPS_URL =
+  "https://www.google.com/maps/search/?api=1&query=Parikhara+Tikhampur,+Ballia+277201,+Uttar+Pradesh";
 
 export const business = {
   businessName: "G India Mart",
@@ -14,7 +15,7 @@ export const business = {
   phone: PHONE_NUMBER,
   phoneDisplay: "+91 96210 82164",
   address: "Parikhara Tikhampur, Ballia 277201, Near Parking Hotel",
-  serviceArea: "Ballia District",
+  serviceArea: "Ballia District, Uttar Pradesh",
   serviceAreas: [
     "Ballia",
     "Phephna",
@@ -96,13 +97,12 @@ export const business = {
     },
   ],
   about:
-    "G India Mart, led by Anil Kumar, has been involved in sand sourcing and supply for around 10 years, serving building-material shops across Ballia district. With a network of local supply sources and the ability to coordinate 20+ trucks per day, the business focuses on helping customers source the sand they need and coordinate delivery.",
+    "G India Mart, led by Anil Kumar, has been sourcing and supplying sand across Ballia district for over 10 years. With a trusted local network and the capacity to coordinate 20+ trucks per day, the business helps contractors, builders, and material shops secure the right sand and delivery support for their needs.",
   socials: {
-    // Add your social media URLs here
     whatsapp: "919621082164",
-    facebook: "https://facebook.com", // TODO: Update with actual Facebook page
-    instagram: "https://instagram.com", // TODO: Update with actual Instagram profile
-    linkedin: "https://linkedin.com", // TODO: Update with actual LinkedIn profile
+    facebook: "https://www.facebook.com",
+    instagram: "https://www.instagram.com",
+    linkedin: "https://www.linkedin.com",
   },
 };
 
