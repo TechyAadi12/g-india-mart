@@ -3,8 +3,8 @@
 // Single source of truth. Update details here only.
 // ============================================================
 
-export const WHATSAPP_NUMBER = "919140594432"; // country code + number, digits only
-export const PHONE_NUMBER = "9140594432";
+export const WHATSAPP_NUMBER = "919621082164"; // country code + number, digits only
+export const PHONE_NUMBER = "9621082164";
 export const GOOGLE_MAPS_URL = "GOOGLE_MAPS_URL_HERE"; // TODO: owner to add exact map link
 
 export const business = {
@@ -12,7 +12,7 @@ export const business = {
   tagline: "Reliable Sand Sourcing & Supply",
   ownerName: "Anil Kumar",
   phone: PHONE_NUMBER,
-  phoneDisplay: "+91 91405 94432",
+  phoneDisplay: "+91 96210 82164",
   address: "Parikhara Tikhampur, Ballia 277201, Near Parking Hotel",
   serviceArea: "Ballia District",
   serviceAreas: [
@@ -99,7 +99,7 @@ export const business = {
     "G India Mart, led by Anil Kumar, has been involved in sand sourcing and supply for around 10 years, serving building-material shops across Ballia district. With a network of local supply sources and the ability to coordinate 20+ trucks per day, the business focuses on helping customers source the sand they need and coordinate delivery.",
   socials: {
     // Add your social media URLs here
-    whatsapp: "919140594432",
+    whatsapp: "919621082164",
     facebook: "https://facebook.com", // TODO: Update with actual Facebook page
     instagram: "https://instagram.com", // TODO: Update with actual Instagram profile
     linkedin: "https://linkedin.com", // TODO: Update with actual LinkedIn profile

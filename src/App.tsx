@@ -5,7 +5,6 @@ import HowItWorks from "./components/HowItWorks";
 import WhyUs from "./components/WhyUs";
 import ServiceArea from "./components/ServiceArea";
 import EnquiryForm from "./components/EnquiryForm";
-import SupplierSection from "./components/SupplierSection";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -22,7 +21,6 @@ function App() {
         <WhyUs />
         <ServiceArea />
         <EnquiryForm />
-        <SupplierSection />
         <About />
         <Contact />
       </main>
